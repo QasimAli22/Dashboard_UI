@@ -16,10 +16,10 @@ Completed HTML Structure
 
 •	Created dashboard.html containing:
 •	<header> (Dashboard title)
-
 •	<main> (Timesheet table, charts)
 
 •	Elements structured with proper classes for flexible styling and chart integration.
+
 
 Completed CSS Styling
 
